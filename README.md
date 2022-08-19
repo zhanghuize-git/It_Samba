@@ -15,11 +15,10 @@ Hi, I am Samba
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
-- ☕️ 我的leetcode解决方案 [nice-js-leetcode](https://github.com/nice-people-frontend-community/nice-js-leetcode) ，[leetcode-javascript](https://github.com/webVueBlog/leetcode-javascript)
-- 🔭 技术平台：<a href="https://juejin.cn/user/1451011081249175" target="_blank">掘金我是哪吒</a> 
-- 🏡 技术博客：🌱 掘金[ssh](https://juejin.im/user/2330620350708823)
-- 💬 微信交流: xiaoda0423⚡ 👉 如果你有问题提出： [click](https://github.com/webVueBlog/interview-answe/issues)
-- 🤔 趣事: 终身学习 [common Snippets](https://gist.github.com/webVueBlog) 坚持运动，阅读
+- 🔭 技术平台： 
+- 🏡 技术博客：🌱<a href="https://juejin.cn/user/3702810895451783" target="_blank">掘金It_Smaba</a> 
+- 💬 微信交流: It_Smaba ⚡ 🫰
+- 🤔 趣事: 终身学习 坚持running 
 
 ## 🤡 感谢关注  ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
 
