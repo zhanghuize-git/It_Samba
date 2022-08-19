@@ -1,6 +1,5 @@
 ## 🦀 About me <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
-<img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
 Hi, I am Samba 👋
 
@@ -12,8 +11,6 @@ Hi, I am Samba 👋
 
  🎉🎉🎉 
 很高兴你能来到我的GitHub⚔江湖凶险，谁不是仗剑走江湖，若剑未佩妥，愿路平坦。
-
-<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
 - 🏡 技术博客：🌱<a href="https://juejin.cn/user/3702810895451783" target="_blank">掘金It_Smaba</a> 
 - 💬 微信交流: It_Smaba ⚡ 🫰
