@@ -15,7 +15,8 @@ Hi, I am Samba 👋
 - 🏡 技术博客：🌱<a href="https://juejin.cn/user/3702810895451783" target="_blank">掘金It_Smaba</a> 
 - 💬 微信交流: It_Smaba ⚡ 🫰
 - 🤔 趣事: 终身学习 坚持running 
-- ![](https://raw.githubusercontent.com/thinkingthigh/thinkingthigh/main/assets/github-contribution-grid-snake.svg)
+
+![](https://raw.githubusercontent.com/thinkingthigh/thinkingthigh/main/assets/github-contribution-grid-snake.svg)
 
 ## 🤡 感谢关注  ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
 
