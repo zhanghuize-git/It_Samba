@@ -15,7 +15,6 @@ Hi, I am Samba
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
-- 🔭 技术平台： 
 - 🏡 技术博客：🌱<a href="https://juejin.cn/user/3702810895451783" target="_blank">掘金It_Smaba</a> 
 - 💬 微信交流: It_Smaba ⚡ 🫰
 - 🤔 趣事: 终身学习 坚持running 
