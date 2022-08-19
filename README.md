@@ -2,7 +2,7 @@
 
 <img align='right' src="https://count.getloli.com/get/@webVueBlog?theme=moebooru">
 
-Hi, I am Samba
+Hi, I am Samba 👋
 
 - 🫡  In the old days. I was very honored to be a warrior
 - 💻  Now. I am a front-end development
@@ -11,7 +11,7 @@ Hi, I am Samba
 
 
  🎉🎉🎉 
-很高兴你能来到我的GitHub👋⚔江湖凶险，谁不是仗剑走江湖，若剑未佩妥，愿路平坦。
+很高兴你能来到我的GitHub⚔江湖凶险，谁不是仗剑走江湖，若剑未佩妥，愿路平坦。
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
