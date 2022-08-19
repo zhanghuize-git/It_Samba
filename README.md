@@ -4,13 +4,13 @@
 
 Hi, I am Samba
 
--🫡  In the old days. I was very honored to be a warrior.
--💻  Now. I am a front-end development.
--🧬 Peace and love
+- 🫡  In the old days. I was very honored to be a warrior
+- 💻  Now. I am a front-end development
+- 🧬 Peace and love
 
 
 
-## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> 我是桑巴 (前端开发) <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='30'> 🎉🎉🎉 
+ 🎉🎉🎉 
 很高兴你能来到我的GitHub👋⚔江湖凶险，谁不是仗剑走江湖，若剑未佩妥，愿路平坦。
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
